@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgriCurify</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="agricurify">AgriCurify</string>
+    <string name="desc">Tanaman sehat, panen optimal. Kenali gejala penyakit dari daun tanaman Anda dengan cepat</string>
+    <string name="lets_start">Ayo Mulai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
